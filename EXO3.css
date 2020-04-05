@@ -1,0 +1,70 @@
+
+            div{
+                width: 60%;
+                height:auto;
+                margin: auto;
+            }
+            #nombre{
+                width: 60%;
+                position:relative;
+                left: 20%;
+            }
+            .nombre{
+                position:relative;
+                left: 40%;
+            }
+            button{
+                width: 15%;
+                position:relative;
+                left: 35%;
+                height:9%;
+                color:white;
+                border-radius: 5px;
+                border:none;
+            }
+            #valider{
+                background-color: #0075ff;
+            }
+            #annuler{
+                background-color: #ea4644;
+            }
+            #resultat{
+                background-color: #1e9543;
+                width: 30%;
+                height: 5%;
+            }
+            input{
+                width:100%;
+            }
+            label{
+                position: relative;
+                top: 10px;
+            }
+            span{
+                position: relative;
+                top: 10px; 
+                color: red;
+                left: 5%;
+                font: 1000px;
+            }
+            .result{
+                position: relative;
+                width:100%;
+                text-align: center;
+                height:20%;
+                background-color: #e7ecef;
+            }
+            .p{
+                font-size: 40px;
+                padding: auto;
+                margin: auto;
+                position: relative;
+                top: 15px;
+            }
+            .mot{
+                position: relative;
+                top: 0px;
+                left: 10px;
+                background: #8eae97;
+                color: black;
+            }
